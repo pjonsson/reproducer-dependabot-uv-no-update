@@ -1,0 +1,8 @@
+[project]
+name = "reproducer-dependabot-uv-no-update"
+version = "0.1.0"
+description = "Reproducer for no packages to update for Dependabot with UV"
+requires-python = ">=3.12"
+dependencies = [
+    "pyyaml>=6.0.1",
+]
